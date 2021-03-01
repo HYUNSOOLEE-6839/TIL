@@ -1,5 +1,6 @@
 # Today I Learned
 <br>
+
 # Day-01
 - Study and Summary of Python's Basic Grammar and Calculations.
 
@@ -19,4 +20,4 @@
 2. learned about the document preprocessing capabilities through the basic methods of scikit-learn
 3. studied Tokenizer to Wordcloud through the NLTK natural language preprocessing package.
 ### From today,
-I am planning to study from the beginning thorugh a new lecture instead of reviewing what I have learned before.
+I am planning to study from the beginning thorugh a new lecture instead of reviewing what I have learned before. 😁😁
