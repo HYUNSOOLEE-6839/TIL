@@ -9,3 +9,8 @@
 - Studied and Summarized
 - Array programming through the Numpy-Package
 - Data_Analysis through the Pandas-Package
+
+# Day-03
+- Studied and Summarized
+- Data-Visualization with Matplotlib
+- Prediction of Iris Variety by Basic-Machine-Learning Techniques
