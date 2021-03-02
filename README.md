@@ -22,4 +22,4 @@
 ### From today,
 I am planning to study from the beginning thorugh a new lecture instead of reviewing what I have learned before. 😁😁
 - Basic_Concepts_01 : The study of Python's basic concepts and strings, lists and tuples and dictionaries.
-- Basic_Concepts_02 :
+- Basic_Concepts_02 : Studying Conditional and Repeated Statements.
