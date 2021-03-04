@@ -29,3 +29,6 @@ I am planning to study from the beginning thorugh a new lecture instead of revie
 - **Basic_Concepts_03** : Definition and use of *Functions*, and study of parameters, *Lambda Functions*
 - **Basic_Concepts_04** : Studied various functions implemented within *Module* and studied *class, object and method.* Among them, I studied *Class Inheritance, method override, etc.* in detail.
 - **Basic_Concepts_05** : I studied the *Regular Expression*, and found the pattern through various methods such as meta-character and minimum-matching.
+
+## Day-06
+- Used *BeautifulSoup4* to crawling the web such as the title and date of the Internet news article.
