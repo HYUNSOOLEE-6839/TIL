@@ -32,3 +32,7 @@ I am planning to study from the beginning thorugh a new lecture instead of revie
 
 ## Day-06
 - Used *BeautifulSoup4* to crawling the web such as the title and date of the Internet news article.
+
+## Day-07
+- Studied Web-Page crawl using *Selenium* and crawled on several pages including Automative-Login and Automative-Searching.
+- The operating system that I used to study crawling was Window OS, and I felt that there was a small difference when I used MAC OS this time, and it was a good opportunity to fix the code one by one, not by searching.
