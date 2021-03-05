@@ -36,3 +36,7 @@ I am planning to study from the beginning thorugh a new lecture instead of revie
 ## Day-07
 - Studied Web-Page crawl using *Selenium* and crawled on several pages including Automative-Login and Automative-Searching.
 - The operating system that I used to study crawling was Window OS, and I felt that there was a small difference when I used MAC OS this time, and it was a good opportunity to fix the code one by one, not by searching.
+
+## Day-08
+- I studied how to handle multi-dimensional data usingn the Numpy and how to change or slicing these data into different dimensions. In particular, the concept of the axis was clearly established, and it was realized that it could be used in various fields or in various fields, and that it was simpler and more convenient to operate a computer by aligning shapes with broadcasting functions.
+- Furthermore, using the basic Matplotlib, I was able to graph my defined fuctions or results as desired, and I was able to draw graphs more neatly and easily recognizable through styling each graph.
