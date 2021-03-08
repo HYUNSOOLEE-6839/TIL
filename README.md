@@ -40,3 +40,7 @@ I am planning to study from the beginning thorugh a new lecture instead of revie
 ## Day-08
 - I studied how to handle multi-dimensional data usingn the Numpy and how to change or slicing these data into different dimensions. In particular, the concept of the axis was clearly established, and it was realized that it could be used in various fields or in various fields, and that it was simpler and more convenient to operate a computer by aligning shapes with broadcasting functions.
 - Furthermore, using the basic Matplotlib, I was able to graph my defined fuctions or results as desired, and I was able to draw graphs more neatly and easily recognizable through styling each graph.
+
+## Day-09
+- Through the Pandas module, I study how to leverage Series and DataFrame to organize, reconstruct, and classify the given data easily.
+- Future learning plans will be used in Machine-Learning based on what has been learned and reviewed so far, and I have established a basic concept of what is in Machine-Learning.
