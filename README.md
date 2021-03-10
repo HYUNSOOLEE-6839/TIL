@@ -44,3 +44,11 @@ I am planning to study from the beginning thorugh a new lecture instead of revie
 ## Day-09
 - Through the Pandas module, I study how to leverage Series and DataFrame to organize, reconstruct, and classify the given data easily.
 - Future learning plans will be used in Machine-Learning based on what has been learned and reviewed so far, and I have established a basic concept of what is in Machine-Learning.
+
+## Day-10
+- I looked at the types of machine learning, and we also looked at what role each model plays, and what kinds of deep learning exist.
+What was impressive was that "the fourth industrial revolution that is happening now" by looking at various techniques such as improving the picture quality or changing the day and night of the background through Deep Learning's "GAN" model.
+- It studied the conformity assessment and experimental design process of the model, and established the concept of 'overfitting'.
+
+## Day-11
+- I studied the basis of 'statistics' that will be used in whether it is machine learning or deep learning, which were statistical probabilities and distribution, statistical reasoning, and tests.  which were difficult to understand, but I was able to establish concepts by applying them in real life as an example.
