@@ -52,3 +52,6 @@ What was impressive was that "the fourth industrial revolution that is happening
 
 ## Day-11
 - I studied the basis of 'statistics' that will be used in whether it is machine learning or deep learning, which were statistical probabilities and distribution, statistical reasoning, and tests.  which were difficult to understand, but I was able to establish concepts by applying them in real life as an example.
+
+## Day-12
+- I studied the mathematical concepts of differentiation and matrix, simple regression analysis. Among them,  Tested and estimated the regression coefficient, and practiced simple linear regression with Boston's house price as an example.
