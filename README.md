@@ -55,3 +55,8 @@ What was impressive was that "the fourth industrial revolution that is happening
 
 ## Day-12
 - I studied the mathematical concepts of differentiation and matrix, simple regression analysis. Among them,  Tested and estimated the regression coefficient, and practiced simple linear regression with Boston's house price as an example.
+
+## Day-13
+- Using Boston housing price data as an example, we studied multiple linear regression analysis, including crime rate, number of rooms per house, and ratio of lower classes in the population through three variables.
+- As a result, the overall model had the smallest residuals, each variable had a low p-value, and the rate of variation of y described as three variables overlapped.
+In other words, we show that the regression model I used is not bad to use even though it is multi-communication.
