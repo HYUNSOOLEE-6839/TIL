@@ -60,3 +60,20 @@ What was impressive was that "the fourth industrial revolution that is happening
 - Using Boston housing price data as an example, we studied multiple linear regression analysis, including crime rate, number of rooms per house, and ratio of lower classes in the population through three variables.
 - As a result, the overall model had the smallest residuals, each variable had a low p-value, and the rate of variation of y described as three variables overlapped.
 In other words, we show that the regression model I used is not bad to use even though it is multi-communication.
+
+## Day-14
+- Multilinear regression analysis was conducted through data from Toyota car prices and Boston house prices, and the contents included how to diagnose multicollinearity, regression diagnosis, regression model determination, and variable selection methods.
+- The contents are organized while studying multi-linear regression analysis. 
+1) Data is pre-processed. 
+2) Train the model.
+3) The p-value of the R-square or variable shows that 'this model has some performance'.
+4) Based on domain knowledge, determine which variables to remove after checking the variables.
+5) While checking multicollinearity through coordination matrix or VIF, recognize that 'this variable also needs to be erased'. If there are one or two variables to erase, you can erase them daily, but if there are many, use variable selection method.
+6) While checking the response, check that the model is well-suited to a certain extent.
+7) Be sure to check the performance for validation_data and select a model.
+
+- Practiced logistic regression through Personal Loan dataset.
+
+## Day-15
+- I studied how to reduce the regression coefficient through Ridge and Lasso, and studied dimension reduction through PCA.
+- After studying regression analysis, I started to study machine learning in earnest. In its contents, we study Naive-Bayes models and study KNN. While studying KNN, we considered solving the overfitting problem through Cross-Validation, and we were able to establish the concept through various materials. Furthermore, while practicing on KNNs, we experienced in-house increasing the performance of KNNs in certain situations through methods that give less weight even if they are in the same Neighbor, and gave us an opportunity to consider how to improve accuracy through multiple techniques.
