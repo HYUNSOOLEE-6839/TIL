@@ -64,13 +64,14 @@ In other words, we show that the regression model I used is not bad to use even 
 ## Day-14
 - Multilinear regression analysis was conducted through data from Toyota car prices and Boston house prices, and the contents included how to diagnose multicollinearity, regression diagnosis, regression model determination, and variable selection methods.
 - The contents are organized while studying multi-linear regression analysis. 
-**1) Data is pre-processed.** 
-**2) Train the model.**
-**3) The p-value of the R-square or variable shows that 'this model has some performance'.
-4) Based on domain knowledge, determine which variables to remove after checking the variables.**
-**5) While checking multicollinearity through coordination matrix or VIF, recognize that 'this variable also needs to be erased'. If there are one or two variables to erase, you can erase them daily, but if there are many, use variable selection method.**
-**6) While checking the response, check that the model is well-suited to a certain extent.**
-**7) Be sure to check the performance for validation_data and select a model.**
+<br>
+**1) Data is pre-processed.** <br>
+**2) Train the model.** <br>
+**3) The p-value of the R-square or variable shows that 'this model has some performance'.** <br>
+**4) Based on domain knowledge, determine which variables to remove after checking the variables.** <br>
+**5) While checking multicollinearity through coordination matrix or VIF, recognize that 'this variable also needs to be erased'. If there are one or two variables to erase, you can erase them daily, but if there are many, use variable selection method.** <br>
+**6) While checking the response, check that the model is well-suited to a certain extent.** <br>
+**7) Be sure to check the performance for validation_data and select a model.** <br>
 
 - Practiced *logistic regression* through Personal Loan dataset.
 
