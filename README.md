@@ -72,6 +72,8 @@ In other words, we show that the regression model I used is not bad to use even 
 5) While checking multicollinearity through coordination matrix or VIF, recognize that 'this variable also needs to be erased'. If there are one or two variables to erase, you can erase them daily, but if there are many, use variable selection method. <br>
 6) While checking the response, check that the model is well-suited to a certain extent. <br>
 7) Be sure to check the performance for validation_data and select a model. 
+
+
 <br>
 
 - Practiced *logistic regression* through Personal Loan dataset.
