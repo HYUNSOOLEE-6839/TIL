@@ -77,3 +77,18 @@ In other words, we show that the regression model I used is not bad to use even 
 ## Day-15
 - I studied how to reduce the regression coefficient through Ridge and Lasso, and studied dimension reduction through PCA.
 - After studying regression analysis, I started to study machine learning in earnest. In its contents, we study Naive-Bayes models and study KNN. While studying KNN, we considered solving the overfitting problem through Cross-Validation, and we were able to establish the concept through various materials. Furthermore, while practicing on KNNs, we experienced in-house increasing the performance of KNNs in certain situations through methods that give less weight even if they are in the same Neighbor, and gave us an opportunity to consider how to improve accuracy through multiple techniques.
+
+## Day-16
+- Until today, I have completed basic studies of basic machine learning models, including LDA, QDA, SVM, neural network models, and decision trees.
+- The Iris data were classified through decision trees based on Sepal_length and Sepal_width, and the difference in accuracy was determined by giving different Depths for each classification.
+- While studying machine learning, there was a change in accuracy or significance depending on how each variable or parameter was designated, and it was possible to pick out data discretization or wrong data through coding without direct calculation, and these processes were able to learn the technology to be honest and accurate.
+- From tomorrow, I will study 'ensemble' which uses a mix of these techniques.
+
+## Day-17
+- Today, we studied 'ensemble', a concept that utilizes several basic models to create one new model.
+- Using single tree-based models, I changed the number of sampling, and verified with post-fitting evaluation data for decision tree models, showing better accuracy.
+- The most interesting study, "Random Forest," showed that performance, like any other model, did not improve any more, and coding showed that it could achieve 100% accuracy with proper sampling and depth.
+- The question here was, 'Why not use a more complex model of deep learning to predict it would be more accurate?', and the answer was to coding myself, but machine learning, a relatively simple technique, was more accurate. We realized that simple models have high accuracy even with simple techniques, and complex techniques can produce poor results.'
+- In other words, it can be easily likened to 'using grenades to catch mice?'
+- While studying machine learning and ensembles, the most important thing in improving accuracy is Feature_selection, which laid the foundation for thinking about what techniques and models should be used for each data and type.
+
