@@ -144,6 +144,7 @@ In other words, we show that the regression model I used is not bad to use even 
 3) Less manpower required for learning. <br>
 A total of three things can be summarized.
 - To summarize while studying Fine-Tuning,
-  > 'In general, layers that have been Knowledge Transfer do not learn after Freeze, but only new layers.'
+  > 'In general, layers that have been Knowledge Transfer do not learn after Freeze, but only new layers.' <br>
+  
   > "However, if the learning data set is large enough, it is okay to learn all layers.'
 - It can be arranged as above.
