@@ -134,3 +134,16 @@ In other words, we show that the regression model I used is not bad to use even 
 - And then studied underfitting, overfitting, and drop-out, and practiced how to prevent overfitting. 
 - To improve this, several techniques such as Early Stopping Callback and Drop-out were used, and since these techniques did not prevent overfitting, the number of neurons in "Dense 4" could be increased to prevent overfitting.
 - Although it did not improve dramatically, Early Stopper prevented it from climbing indefinitely.
+
+## Day-22
+- Today, I studied about MNN.
+- In this process, several learning modules were conceptually explored, and the study of transfer learning and Fine-Tuning was focused. 
+- The reason for using transfer learning is,
+1) Addressing the shortage of datasets. <br>
+2) Cost reduction.<br>
+3) Less manpower required for learning. <br>
+A total of three things can be summarized.
+- To summarize while studying Fine-Tuning,
+  > 'In general, layers that have been Knowledge Transfer do not learn after Freeze, but only new layers.'
+  > "However, if the learning data set is large enough, it is okay to learn all layers.'
+- It can be arranged as above.
