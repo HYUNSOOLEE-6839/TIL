@@ -104,3 +104,8 @@ In other words, we show that the regression model I used is not bad to use even 
 
 - In the afternoon, I studied "Credit Card Fraud Detection Data" as an example, drew a graph for each variable for the target variable, and defined the variables with differences through the graph.
 - In addition, I wanted to get results using modules such as LightGBM and XGBoost, but this module did not work on my Mac M1 operating system, so I will study them more deeply through other computers later.
+
+## Day-19
+- I started studying Deep-Learning from today, and I learned Mnist handwriting data through Tensorflow and saw the results.
+- The results showed a high accuracy of 97.32%, and I felt that a single line of code adding the module could produce tremendous results.
+- I have since studied several active functions, loss functions, and neural network architectures, and have also implemented Perceptron.
