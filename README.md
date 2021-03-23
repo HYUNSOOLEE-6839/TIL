@@ -122,3 +122,15 @@ In other words, we show that the regression model I used is not bad to use even 
 2) Move as much as epsilon each scalar what you want to learn to obtain a new loss function. <br>
 3) Calculate the difference between the loss function and the standard loss function. <br>
 4) As much as epsilon has been moved, divide it into epsilon and obtain it according to the Numinal Gradient definition, and store the Gradient in the corresponding Scalar location.
+
+## Day-21
+- I studied several neural networks today, including CNN, RNN, and TNN.
+- One of the most impressive was CNN, which was particularly useful in finding patterns to recognize images.
+- In the course of studying this, I learned about the need for Padding and how to handle a useful technique called Zero-Padding.
+- While studying about the pooling layer, I wonder
+  > "Wouldn't making a lot of pooling layers produce results quickly and compactly?" 
+- through the characteristics of "passing the pooling layer reduces the size of the images and aggregates information."
+- The practice proved my question wrong.
+- And then studied underfitting, overfitting, and drop-out, and practiced how to prevent overfitting. 
+- To improve this, several techniques such as Early Stopping Callback and Drop-out were used, and since these techniques did not prevent overfitting, the number of neurons in "Dense 4" could be increased to prevent overfitting.
+- Although it did not improve dramatically, Early Stopper prevented it from climbing indefinitely.
