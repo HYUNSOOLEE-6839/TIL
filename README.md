@@ -109,3 +109,9 @@ In other words, we show that the regression model I used is not bad to use even 
 - I started studying Deep-Learning from today, and I learned Mnist handwriting data through Tensorflow and saw the results.
 - The results showed a high accuracy of 97.32%, and I felt that a single line of code adding the module could produce tremendous results.
 - I have since studied several active functions, loss functions, and neural network architectures, and have also implemented Perceptron.
+
+## Day-20
+- Today, I studied optimization theory, and while studying indiscriminate substituting methods, the question was raised, 
+   > "Can't I find the answer after putting it in less?"
+- In that way, the results of this algorithm were visualized using Gradient Descent and the results were obtained to answer the questions raised.
+- Later, I also studied Back Propagation, and conducted a hands-on study on deep neural network learning using numerical differentiation.
