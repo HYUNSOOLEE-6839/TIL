@@ -115,3 +115,8 @@ In other words, we show that the regression model I used is not bad to use even 
    > "Can't I find the answer after putting it in less?"
 - In that way, the results of this algorithm were visualized using Gradient Descent and the results were obtained to answer the questions raised.
 - Later, I also studied Back Propagation, and conducted a hands-on study on deep neural network learning using numerical differentiation.
+- This is the summary of deep neural network learning using numerical differentiation.
+1) In order to obtain a numerical gradient, the standard loss must be obtained. <br>
+2) Move as much as epsilon each scalar what you want to learn to obtain a new loss function. <br>
+3) Calculate the difference between the loss function and the standard loss function. <br>
+4) As much as epsilon has been moved, divide it into epsilon and obtain it according to the Numinal Gradient definition, and store the Gradient in the corresponding Scalar location.
