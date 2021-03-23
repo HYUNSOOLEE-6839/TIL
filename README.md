@@ -148,3 +148,9 @@ A total of three things can be summarized.
   
   > "However, if the learning data set is large enough, it is okay to learn all layers.'
 - It can be arranged as above.
+
+- The interesting thing was that my computer had never overheated before when I was doing machine learning or other tasks, but as I was practicing Transfer Learning learning, learning was interrupted by a large amount of RAM consumption compared to specifications, reducing batch_size of data from 32 to 8 and using GPUs via Google's Colab.
+- Although the speed was slow and it took a while, the accuracy was close to 100%, showing satisfactory results.
+- Until today, I have finished studying Python's main grammar, machine learning, and deep learning techniques, and from now on, I am going to do various projects using what I have learned so far.
+- For example, data analysis using advertising data or data analysis using shopping mall order data.
+- It is planning to proceed from projects using Pandas to projects using deep learning step by step.
