@@ -96,3 +96,11 @@ In other words, we show that the regression model I used is not bad to use even 
 - In other words, it can be easily likened to **'using grenades to catch mice?'**
 - While studying machine learning and ensembles, the most important thing in improving accuracy is Feature_selection, which laid the foundation for thinking about what techniques and models should be used for each data and type.
 
+## Day-18
+- In the morning, I studied clustering as an example of 'Boston house price' and visualized and compared the results of K-Means and DBSCAN.
+  > It is generally known that K-Means lag behind DBSCAN.
+
+- This example, which does not produce good results of DBSCAN, which has the characteristics of clusters between things at a close distance, is a special example, and will be demonstrated through other examples later.
+
+- In the afternoon, I studied "Credit Card Fraud Detection Data" as an example, drew a graph for each variable for the target variable, and defined the variables with differences through the graph.
+- In addition, I wanted to get results using modules such as LightGBM and XGBoost, but this module did not work on my Mac M1 operating system, so I will study them more deeply through other computers later.
