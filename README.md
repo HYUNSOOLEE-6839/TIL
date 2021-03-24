@@ -96,3 +96,61 @@ In other words, we show that the regression model I used is not bad to use even 
 - In other words, it can be easily likened to **'using grenades to catch mice?'**
 - While studying machine learning and ensembles, the most important thing in improving accuracy is Feature_selection, which laid the foundation for thinking about what techniques and models should be used for each data and type.
 
+## Day-18
+- In the morning, I studied clustering as an example of 'Boston house price' and visualized and compared the results of K-Means and DBSCAN.
+  > It is generally known that K-Means lag behind DBSCAN.
+
+- This example, which does not produce good results of DBSCAN, which has the characteristics of clusters between things at a close distance, is a special example, and will be demonstrated through other examples later.
+
+- In the afternoon, I studied "Credit Card Fraud Detection Data" as an example, drew a graph for each variable for the target variable, and defined the variables with differences through the graph.
+- In addition, I wanted to get results using modules such as LightGBM and XGBoost, but this module did not work on my Mac M1 operating system, so I will study them more deeply through other computers later.
+
+## Day-19
+- I started studying Deep-Learning from today, and I learned Mnist handwriting data through Tensorflow and saw the results.
+- The results showed a high accuracy of 97.32%, and I felt that a single line of code adding the module could produce tremendous results.
+- I have since studied several active functions, loss functions, and neural network architectures, and have also implemented Perceptron.
+
+## Day-20
+- Today, I studied optimization theory, and while studying indiscriminate substituting methods, the question was raised, 
+   > "Can't I find the answer after putting it in less?"
+- In that way, the results of this algorithm were visualized using Gradient Descent and the results were obtained to answer the questions raised.
+- Later, I also studied Back Propagation, and conducted a hands-on study on deep neural network learning using numerical differentiation.
+<br>
+
+#### This is the summary of deep neural network learning using numerical differentiation.
+1) In order to obtain a numerical gradient, the standard loss must be obtained. <br>
+2) Move as much as epsilon each scalar what you want to learn to obtain a new loss function. <br>
+3) Calculate the difference between the loss function and the standard loss function. <br>
+4) As much as epsilon has been moved, divide it into epsilon and obtain it according to the Numinal Gradient definition, and store the Gradient in the corresponding Scalar location.
+
+## Day-21
+- I studied several neural networks today, including CNN, RNN, and TNN.
+- One of the most impressive was CNN, which was particularly useful in finding patterns to recognize images.
+- In the course of studying this, I learned about the need for Padding and how to handle a useful technique called Zero-Padding.
+- While studying about the pooling layer, I wonder
+  > "Wouldn't making a lot of pooling layers produce results quickly and compactly?" 
+- through the characteristics of "passing the pooling layer reduces the size of the images and aggregates information."
+- The practice proved my question wrong.
+- And then studied underfitting, overfitting, and drop-out, and practiced how to prevent overfitting. 
+- To improve this, several techniques such as Early Stopping Callback and Drop-out were used, and since these techniques did not prevent overfitting, the number of neurons in "Dense 4" could be increased to prevent overfitting.
+- Although it did not improve dramatically, Early Stopper prevented it from climbing indefinitely.
+
+## Day-22
+- Today, I studied about MNN.
+- In this process, several learning modules were conceptually explored, and the study of transfer learning and Fine-Tuning was focused. 
+- The reason for using transfer learning is,
+1) Addressing the shortage of datasets. <br>
+2) Cost reduction.<br>
+3) Less manpower required for learning. <br>
+A total of three things can be summarized.
+- To summarize while studying Fine-Tuning,
+  > 'In general, layers that have been Knowledge Transfer do not learn after Freeze, but only new layers.' <br>
+  
+  > "However, if the learning data set is large enough, it is okay to learn all layers.'
+- It can be arranged as above.
+
+- The interesting thing was that my computer had never overheated before when I was doing machine learning or other tasks, but as I was practicing Transfer Learning learning, learning was interrupted by a large amount of RAM consumption compared to specifications, reducing batch_size of data from 32 to 8 and using GPUs via Google's Colab.
+- Although the speed was slow and it took a while, the accuracy was close to 100%, showing satisfactory results.
+- Until today, I have finished studying Python's main grammar, machine learning, and deep learning techniques, and from now on, I am going to do various projects using what I have learned so far.
+- For example, data analysis using advertising data or data analysis using shopping mall order data.
+- It is planning to proceed from projects using Pandas to projects using deep learning step by step.
