@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "steps": [
+      0
+    ],
+    "timestamps": [
+      "2021-03-25T07:16:10.771475"
+    ],
+    "values": [
+      {
+        "meta": {
+          "column_level_names": [
+            null
+          ],
+          "dtypes": {
+            "mae": "float64",
+            "mape": "float64",
+            "mse": "float64"
+          },
+          "header": [
+            0
+          ],
+          "index": "{\"py/object\": \"pandas.core.indexes.base.Index\", \"values\": \"[\\\"score\\\"]\", \"txt\": true, \"meta\": {\"dtype\": \"object\", \"name\": null}}"
+        },
+        "py/object": "pandas.core.frame.DataFrame",
+        "txt": true,
+        "values": "mape,mae,mse\n4379287.123290663,44848.791441706235,1907131268986.4849\n"
+      }
+    ]
+  },
+  "model_name": {
+    "steps": [
+      0
+    ],
+    "timestamps": [
+      "2021-03-25T07:16:10.771452"
+    ],
+    "values": [
+      "LinearRegression"
+    ]
+  }
+}
