@@ -1,0 +1,71 @@
+{
+  "artifacts": [],
+  "command": "run",
+  "experiment": {
+    "base_dir": "/Users/hyunsoolee/Documents/GitHub/TIL/Day-24",
+    "dependencies": [
+      "ipython==7.19.0",
+      "ipywidgets==7.5.1",
+      "matplotlib==3.3.2",
+      "numpy==1.19.2",
+      "pandas==1.1.3",
+      "sacred==0.8.2",
+      "scikit-learn==0.23.2",
+      "seaborn==0.11.0"
+    ],
+    "mainfile": null,
+    "name": "nyc-demand-prediction",
+    "repositories": [],
+    "sources": []
+  },
+  "heartbeat": "2021-03-25T07:16:10.774445",
+  "host": {
+    "ENV": {},
+    "cpu": "Apple M1",
+    "hostname": "ihyeonsuui-MacBookAir.local",
+    "os": [
+      "Darwin",
+      "macOS-10.16-x86_64-i386-64bit"
+    ],
+    "python_version": "3.8.5"
+  },
+  "meta": {
+    "command": "run",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false
+    }
+  },
+  "resources": [],
+  "result": {
+    "mae": {
+      "score": 44848.791441706235
+    },
+    "mape": {
+      "score": 4379287.123290663
+    },
+    "mse": {
+      "score": 1907131268986.4849
+    }
+  },
+  "start_time": "2021-03-25T07:16:10.004890",
+  "status": "COMPLETED",
+  "stop_time": "2021-03-25T07:16:10.771996"
+}
