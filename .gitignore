@@ -1,5 +1,9 @@
 
 .DS_Store
 *.csv
-.xlsx
-.csvs
+*.xlsx
+*.csvs
+*.exe
+*.txt
+/driver
+mecab
