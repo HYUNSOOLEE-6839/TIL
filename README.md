@@ -173,3 +173,21 @@ The process is,
 - Through the number of calls by time zone and day of the week, the period (peak time) of demand for taxis in Manhattan was determined.
 - In addition, the area was visualized separately by Zip-Code in Manhattan, and the color concentration showed that the area was a commercial or entertainment district without actually investigating it.
 - Based on these things, I used preprocession, simple regression, Sacred.
+
+## Day-25
+- Following yesterday's study, we added a Feature with a concept of time to the data and visualized actual values and predicts by Date-time, Zip-Code, Hour, Weekday, weekday/weekend through Random-Forest.
+
+## Day-26
+-Today, I studied text mining and crawled the title and contents of Naver news articles through Chrome Driver.
+
+## Day-27
+- Today, a morphology analyzer was manufactured through mecab and processed beforehand, and Naver articles were topic-modeling using Gensim.
+- then visualized the results of Topic Modeling via pyLDAvis.
+
+## Day-28
+- I analyzed Naver's movie reviews with scikit-learn, and classified NSMC with Linear Classifier and Support Vector Machine.
+- Then, used NLTK to analyze histograms and create wordcloud.
+
+## Day-29
+- Through Kakao Talk conversation records, a word cloud was created, visualized for the frequency of messages sent by a particular person, and a function was defined so that it could derive mainly mentioned content within the period.
+- After, LSTM and RNN were used via Tensorflow to MNIST data.
