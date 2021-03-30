@@ -154,3 +154,16 @@ A total of three things can be summarized.
 - Until today, I have finished studying Python's main grammar, machine learning, and deep learning techniques, and from now on, I am going to do various projects using what I have learned so far.
 - For example, data analysis using advertising data or data analysis using shopping mall order data.
 - It is planning to proceed from projects using Pandas to projects using deep learning step by step.
+
+## Day-23
+- Today, I visualized sales (all, country, month, day of the week, hour by hour) through the virtual shopping mall customer order data, and made data-based decisions through customer cohort analysis and monthly repurchase rate analysis.
+#### The agenda was, "When should I send a push message when I send a coupon?"
+- It is meaningless to send a push message without considering the time when the order is made, and there will be no basis for judgment in the future when the same event occurs.
+- In the current state, I thought it was the most intuitive judgment to do at the time when the most orders were made.
+The process is,
+1. Data identification
+2. Propose a hypothesis
+3. Hypothesis verification
+ There are 3 different types of results obtained 1 to 3 times.
+  > Since consumption patterns may vary from user to user, the solution was to find the most purchased time zone and send coupons at that time.
+  > In other words, it is efficient to target customers individually by time zone.
