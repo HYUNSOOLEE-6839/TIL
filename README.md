@@ -167,3 +167,9 @@ The process is,
  There are 3 different types of results obtained 1 to 3 times.
   > Since consumption patterns may vary from user to user, the solution was to find the most purchased time zone and send coupons at that time.
   > In other words, it is efficient to target customers individually by time zone.
+  
+## Day-24
+- Today, I used Google's Big-Query to predict the demand for taxis in New York.
+- Through the number of calls by time zone and day of the week, the period (peak time) of demand for taxis in Manhattan was determined.
+- In addition, the area was visualized separately by Zip-Code in Manhattan, and the color concentration showed that the area was a commercial or entertainment district without actually investigating it.
+- Based on these things, I used preprocession, simple regression, Sacred.
