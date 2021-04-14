@@ -226,3 +226,12 @@ The process is,
 - Classification model generation and performance comparison were performed using steel plate manufacturing process data.
 
 ## Day-39
+- Classification model generation and performance comparison were performed using yesterday's steel plate manufacturing process data.
+- What I learned yesterday is the construction process of each model and the utilization of GridSearch to optimize this parameter.
+- What I learned today is to look at and understand the above in terms of optimizing appropriate model choices and parameters based on a high-level understanding of the nature of the data and the model methodology.
+
+## Day-40
+- I studied how to distinguish the points in two dimensions of various patterns.
+
+## Day-41
+- Following what I was studying yesterday, I distinguished patterns using K-means, PCA, etc., and conducted PCA for exploratory analysis.
