@@ -210,3 +210,19 @@ The process is,
 ## Day-34
 - I analyzed the stroke data I analyzed yesterday with more diverse techniques and visualized the correlation factors easily.
 - With Airbnb data in New York, I analyzed the proper price of accommodation through various techniques.
+
+## Day-35
+- The predicted and actual values of the expected life expectancy of each country were analyzed and visualized through the graph.
+- The happiness index of each country was analyzed, and the changes were visualized through a graph, allowing us to infer what happened in the year.
+
+## Day-36
+- When purchasing a game, I analyzed what factors consumers should focus on to buy the game, and correlated sales volume and various factors to prove the hypothesis that listening to experts is accurate.
+
+## Day-37
+- Using Covid-19 data, we visualized the number of confirmed cases and deaths by country and date, and analyzed how the number of confirmed cases would change in the future through the Prophet model.
+- It also analyzed how the number of confirmed cases in Korea would have increased if the number of confirmed cases (such as Sincheonji in Daegu) had not occurred.
+
+## Day-38
+- Classification model generation and performance comparison were performed using steel plate manufacturing process data.
+
+## Day-39
