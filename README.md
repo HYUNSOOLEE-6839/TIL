@@ -191,3 +191,22 @@ The process is,
 ## Day-29
 - Through Kakao Talk conversation records, a word cloud was created, visualized for the frequency of messages sent by a particular person, and a function was defined so that it could derive mainly mentioned content within the period.
 - After, LSTM and RNN were used via Tensorflow to MNIST data.
+
+## Day-30
+- Through the heart failure data, I analyzed what factors have a significant impact on heart failure.
+
+## Day-31
+- Through the League of Legends game data, I analyzed which factors have a significant impact on the victory. The correlation and accuracy between data are predicted with logistic regression and XGBoost.
+- Data from European soccer players were read in SQL to analyze how many goals each team or player scored, won or lost when playing at home or away, and to correlate each element.
+- Logistic Regressin was used in Kaggle's xAPI-Edu-Data to analyze the impact of each element on grades.
+
+## Day-32
+- Using U.S. presidential election data, I analyzed who the group supported and what the characteristics of the Republicans were.
+
+## Day-33
+- I analyzed the actual and presumptive values of the automatically scratched used car data, and looked at how many errors occurred through a histogram.
+- Using what I have learned, I analyzed the stroke data in kaggle through self-directed learning rather than through lectures.
+
+## Day-34
+- I analyzed the stroke data I analyzed yesterday with more diverse techniques and visualized the correlation factors easily.
+- With Airbnb data in New York, I analyzed the proper price of accommodation through various techniques.
