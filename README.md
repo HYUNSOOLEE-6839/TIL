@@ -191,3 +191,47 @@ The process is,
 ## Day-29
 - Through Kakao Talk conversation records, a word cloud was created, visualized for the frequency of messages sent by a particular person, and a function was defined so that it could derive mainly mentioned content within the period.
 - After, LSTM and RNN were used via Tensorflow to MNIST data.
+
+## Day-30
+- Through the heart failure data, I analyzed what factors have a significant impact on heart failure.
+
+## Day-31
+- Through the League of Legends game data, I analyzed which factors have a significant impact on the victory. The correlation and accuracy between data are predicted with logistic regression and XGBoost.
+- Data from European soccer players were read in SQL to analyze how many goals each team or player scored, won or lost when playing at home or away, and to correlate each element.
+- Logistic Regressin was used in Kaggle's xAPI-Edu-Data to analyze the impact of each element on grades.
+
+## Day-32
+- Using U.S. presidential election data, I analyzed who the group supported and what the characteristics of the Republicans were.
+
+## Day-33
+- I analyzed the actual and presumptive values of the automatically scratched used car data, and looked at how many errors occurred through a histogram.
+- Using what I have learned, I analyzed the stroke data in kaggle through self-directed learning rather than through lectures.
+
+## Day-34
+- I analyzed the stroke data I analyzed yesterday with more diverse techniques and visualized the correlation factors easily.
+- With Airbnb data in New York, I analyzed the proper price of accommodation through various techniques.
+
+## Day-35
+- The predicted and actual values of the expected life expectancy of each country were analyzed and visualized through the graph.
+- The happiness index of each country was analyzed, and the changes were visualized through a graph, allowing us to infer what happened in the year.
+
+## Day-36
+- When purchasing a game, I analyzed what factors consumers should focus on to buy the game, and correlated sales volume and various factors to prove the hypothesis that listening to experts is accurate.
+
+## Day-37
+- Using Covid-19 data, we visualized the number of confirmed cases and deaths by country and date, and analyzed how the number of confirmed cases would change in the future through the Prophet model.
+- It also analyzed how the number of confirmed cases in Korea would have increased if the number of confirmed cases (such as Sincheonji in Daegu) had not occurred.
+
+## Day-38
+- Classification model generation and performance comparison were performed using steel plate manufacturing process data.
+
+## Day-39
+- Classification model generation and performance comparison were performed using yesterday's steel plate manufacturing process data.
+- What I learned yesterday is the construction process of each model and the utilization of GridSearch to optimize this parameter.
+- What I learned today is to look at and understand the above in terms of optimizing appropriate model choices and parameters based on a high-level understanding of the nature of the data and the model methodology.
+
+## Day-40
+- I studied how to distinguish the points in two dimensions of various patterns.
+
+## Day-41
+- Following what I was studying yesterday, I distinguished patterns using K-means, PCA, etc., and conducted PCA for exploratory analysis.
